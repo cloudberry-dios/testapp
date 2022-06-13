@@ -33,7 +33,7 @@
 
 <body>
    <h1>Welkom op productie pagina! VERSIE-01</h1>
-   <h1>Dit zijn de laatste wijzigingen</h1>
+   <h1>test bruddaa</h1>
    <table style="width:100%"">
      <tr>
        <?php
