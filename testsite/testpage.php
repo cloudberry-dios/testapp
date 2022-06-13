@@ -33,7 +33,7 @@
 
 <body>
    <h1>Welkom op de testapplicatie voor DEVOPS, VERSIE-01</h1>
-   <h1>Dit is een wijziging</h1>
+   <h1>Dit is een wijziging + Nog één</h1>
    <table style="width:100%"">
      <tr>
        <?php
