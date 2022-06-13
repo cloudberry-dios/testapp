@@ -19,7 +19,7 @@ spec:
       - name: tws  
         image: cloudberrydios/kdh-testwebsite-prodv01
         ports:
-        - containerPort: 81 #the standard 80 port
+        - containerPort: 80 #the standard 80 port
 
 #dit betekent hier komt een nieuwe YAML-file
 ---
@@ -36,6 +36,6 @@ spec:
   ports:
     - protocol: TCP
       port: 8081  #de pod open poort 8080 als connectie
-      targetPort: 81
+      targetPort: 80
       #setting2 voor een external toegang
       nodePort: 30081  #moet tussen 30000 en 32767 liggen
