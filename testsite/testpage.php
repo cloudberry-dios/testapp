@@ -32,8 +32,8 @@
 </head>
 
 <body>
-   <h1>Welkom op productie pagina! VERSIE-01</h1>
-   <h1>hihihihihi test 1 2 3 . . .</h1>
+   <h1>Welkom op de testpagina van de webapplicatie! VERSIE-01</h1>
+   <h1>Testregel</h1>
    <table style="width:100%"">
      <tr>
        <?php
