@@ -32,7 +32,7 @@
 </head>
 
 <body>
-   <h1>Welkom op de testpagina van de webapplicatie! VERSIE-01</h1>
+   <h1>Welkom op de testpagina van de webapplicatie! VERSIE-02</h1>
    <h1>Testregel</h1>
    <table style="width:100%"">
      <tr>
