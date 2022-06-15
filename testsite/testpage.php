@@ -1,5 +1,4 @@
-<?php
-/*resttest*/
+<?php /*resttest*/
   $focus=0;
   if(isset($_POST['btn_opdracht1'])){$focus=1;}
   if(isset($_POST['btn_opdracht2'])) {$focus=2;}
@@ -33,7 +32,7 @@
 
 <body>
    <h1>Welkom op de testpagina van de webapplicatie! VERSIE-02</h1>
-   <h1>Testregel</h1>
+   <h1>Hopjesvla</h1>
    <table style="width:100%"">
      <tr>
        <?php
